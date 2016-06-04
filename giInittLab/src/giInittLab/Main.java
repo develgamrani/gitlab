@@ -8,6 +8,7 @@ public class Main {
 		System.out.println("Commit à annuler");
 		System.out.println("1");
 		System.out.println("2");
+		System.out.println("a");
 
 	}
 
