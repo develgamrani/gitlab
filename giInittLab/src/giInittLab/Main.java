@@ -6,6 +6,7 @@ public class Main {
 		
 		System.out.println("Hello World !!");
 		System.out.println("Commit à annuler");
+		System.out.println("0");
 		System.out.println("1");
 		System.out.println("2");
 
